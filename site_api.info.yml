@@ -1,0 +1,5 @@
+name: 'site_api'
+type: module
+description: 'Storing and updating site api key in site information'
+core: 8.x
+package: 'Custom'

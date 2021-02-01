@@ -1,0 +1,4 @@
+node_details_form_tab:
+  route_name : node_details_form_link
+  title: Get Node Details
+  base_route: system.admin_content

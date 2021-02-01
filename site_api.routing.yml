@@ -1,0 +1,7 @@
+node_details_form_link:
+  path: '/admin/nodeDetailsForm'
+  defaults:
+    _title: 'Get Node Details Form'
+    _form: '\Drupal\site_api\Controller\DetailsController'
+  requirements:
+    _permission: 'administer site_api'
